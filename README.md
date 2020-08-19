@@ -1,6 +1,6 @@
 # Data Structures for Disjoint Sets
 
-See Algoritm simulation : https://arjmand08.github.io/disjoint_sets/. 
+See Simulation : https://arjmand08.github.io/disjoint_sets/. 
 
 
 **Disjoint-set** data structure (also called a union–find data structure or merge–find set) is a data 
